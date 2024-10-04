@@ -7,13 +7,13 @@
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/Alchemooney/XIVSlothCombo",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 10,
         "DownloadLinkInstall": "https://github.com/Alchemooney/XIVSlothComboTest/archive/refs/tags/V1.0.0.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Alchemooney/XIVSlothComboTest/archive/refs/tags/V1.0.0.zip",
         "DownloadLinkUpdate": "https://github.com/Alchemooney/XIVSlothComboTest/archive/refs/tags/V1.0.0.zip",
         "DownloadCount": 0,
-        "LastUpdated": "0"
+        "LastUpdated": "2024-10-04"
     }
 ]
