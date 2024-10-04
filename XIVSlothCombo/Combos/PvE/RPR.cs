@@ -201,7 +201,7 @@ internal class RPR
                 }
 
                 //Ranged Attacks
-                if (!InMeleeRange() && LevelChecked(Harpe) && HasBattleTarget())
+            	if (!InMeleeRange() && LevelChecked(Harpe) && HasBattleTarget()&& !HasEffect(Buffs.SoulReaver) && !HasEffect(Buffs.Executioner))
                 {
                     //Communio
                     if (HasEffect(Buffs.Enshrouded) && Gauge.LemureShroud is 1 && Gauge.VoidShroud is 0 &&
